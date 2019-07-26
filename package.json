@@ -1,0 +1,22 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "chat bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bartekcostam/chat-bot.git"
+  },
+  "author": "Bartlomiej Wydmuch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bartekcostam/chat-bot/issues"
+  },
+  "homepage": "https://github.com/bartekcostam/chat-bot#readme",
+  "dependencies": {
+    "hangouts-bot": "^0.2.1"
+  }
+}
