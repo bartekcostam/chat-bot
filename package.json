@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/bartekcostam/chat-bot#readme",
   "dependencies": {
-    "hangouts-bot": "^0.2.1"
+    "hangouts-bot": "^0.2.1",
+    "vm": "^0.1.0"
   }
 }
